@@ -1,4 +1,4 @@
-# Intelligent Retail Assistant System
+# Smart Shopping Cart
 
 ## 📖 Overview
 This project presents an intelligent retail assistant designed to enhance the in-store shopping experience.  
