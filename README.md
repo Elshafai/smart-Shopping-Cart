@@ -35,3 +35,39 @@ The system is divided into three main components:
 ---
 
 ## 📂 Project Structure
+
+/dataset
+/models
+/backend
+/recommendation
+/database
+
+---
+
+## ⚙️ Installation
+
+### 1️⃣ Clone the repository
+
+### 2️⃣ Install dependencies
+
+### 3️⃣ Run the project
+
+---
+
+## 🎯 Future Improvements
+- Improve dataset size to reduce overfitting
+- Deploy as a cloud-based service
+- Add analytics dashboard
+- Enhance mobile integration
+
+---
+
+## 📜 License
+This project is for academic and hackathon purposes.
+## 🗄️ Database Design
+- User
+- Cart
+- Product
+- Invoice
+- Category
+
